@@ -8,6 +8,14 @@
 
 <h2 align="center">Hi there 👋, I'm <span style="color: #ff0080;">Vladyslav!</span></h2>
 
+<h3>💁 Aboute Me:</h3>
+<p>⚡️  Over the past year, I've immersed myself in front-end development, acquiring valuable experience in crafting web applications and services. </p>
+<p>👨‍💻  As a developer, I code independently and with my training team, implement new functionality in a short time, do quick bug fixes and support the old part of applications or refactor them. </p>
+
+[alialiqtu@gmail.com](mailto:alialiqtu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kravchenko-v1adys1av/) | [Telegram](https://t.me/Vkadi_Budetak)
+
+<h2 align="center"><span style="color: #ff0080;"></span></h2>
+
 <h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</h3>
 <div align="center" style="margin-bottom: 40px;">
         <img src="./assets/git-logo.svg" alt="git" width="40" height="40"/>
@@ -19,6 +27,11 @@
         <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
 </div>
 <p></p>
+
+<div align="center" style="padding: 20px 0;">
+  <img style="height: auto; width: 46%;" src="https://github-readme-stats.vercel.app/api?username=vkadi-budetak&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img style="height: auto; width: 35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkadi-budetak&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 <!---
 vkadi-budetak/vkadi-budetak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
